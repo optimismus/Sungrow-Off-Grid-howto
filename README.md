@@ -10,3 +10,6 @@ Diese Anleitung ist dafür gedacht, sie auszudrucken, zu laminieren und in der N
 Diese Anleitung macht nur dann Sinn, wenn der Stecker für den Backup/Off-Grid auch mit einem Kabel und mindestens einer Steckdose versehen ist. Ein solcher Aufbau erfüllt mutmaßlich nicht die Anforderungen der einschlägigen VDE-Vorgaben etc. Lasst die Elektroinstallation von einer Elektrofachkraft vornehmen.
 
 [Deutsche Anleitung](https://github.com/optimismus/Sungrow-Off-Grid-howto/blob/main/german-how-to.md)
+
+## Figure / Zeichnung
+![Sungrow-Backup_s](https://github.com/optimismus/Sungrow-Off-Grid-howto/assets/16720046/e03138ae-2c9d-4ed3-b94b-154924459266)
